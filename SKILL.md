@@ -1,5 +1,6 @@
 ---
 name: database-management
+version: 0.1.0
 description: >
   数据库管理技能：接收数据任务→澄清需求→回忆经验→规划大纲→分析分支/引擎→写脚本/迁移→构建测试→
   知识库构建→浏览器学习→审查→交付；薄技能（能力经 dependence/ 声明），遇不明处强制派 file_ops 联网学习并沉淀知识链。
