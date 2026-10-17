@@ -7,11 +7,19 @@ description: >
 license: MIT
 metadata:
   category: development
+scope: >
+  本技能专注于关系型数据库的全生命周期管理，覆盖建模、迁移、查询优化、备份恢复与性能调优；
+  支持 PostgreSQL / MySQL / SQLite / MongoDB 等主流引擎；
+  不包含数据库代理服务、集群管理、云托管平台操作等非核心领域。
 ---
 
 # database-management
 
 使用 `database-management` skill 来完成用户请求。
+
+## Scope（范围声明）
+
+详见 [Scope.md](Scope.md)。
 
 ## 工作原则
 

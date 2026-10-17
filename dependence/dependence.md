@@ -5,7 +5,7 @@
 
 ```
 file_ops          | skill    | local:skill_manage_system
-code-guidelines   | skill    | local
+general-software-dev   | skill    | local
 pavedpath-code    | skill    | local
 python            | software | system
 git               | software | system
@@ -16,7 +16,7 @@ git               | software | system
 | 依赖 | 承担能力 | 触发节点 |
 |---|---|---|
 | file_ops | 联网搜索/抓取（ff_lite.py search/fetch·须 :grant network） | 经验查询 / 浏览器学习 / 知识库构建 |
-| code-guidelines | 命名、注释、复杂度、坏味道准则 | 脚本构建 / 整体审查 |
+| general-software-dev | 命名、注释、复杂度、坏味道准则 | 脚本构建 / 整体审查 |
 | pavedpath-code | 已验证实现路径与脚手架范式 | 大纲构建 / 分支分析 / 脚本构建 |
 | python | 脚本运行时、DB-API 驱动与测试执行器 | 脚本构建 / 构建测试 |
 | git | 功能分支→dev→main 版本流 | 每步收尾（见 git 工作流约束） |
